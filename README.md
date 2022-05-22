@@ -4,6 +4,7 @@
 ### 🇺🇸 En:
 
 ## Bot to download music from YouTube
+The working version is available at [@YT_upl_Bot](https://t.me/YT_upl_Bot)
 
 ### 1. Bot creation
 
@@ -36,6 +37,7 @@
 ### 🇷🇺 Ru:
 
 ## Бот для скачивания музыки с YouTube
+рабочая версия доступна по ссылке [@YT_upl_Bot](https://t.me/YT_upl_Bot)
 
 ### 1. Создание бота
 
