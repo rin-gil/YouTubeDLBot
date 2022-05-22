@@ -1,0 +1,4 @@
+moviepy~=1.0.3
+pytube~=12.1.0
+pytelegrambotapi~=4.5.1
+setuptools~=60.2.0
