@@ -4,6 +4,7 @@ setup(
     name='YouTubeDLBot',
     version='1.0',
     packages=[''],
+    install_requires=['pyTelegramBotAPI', 'pytube', 'moviepy'],
     url='https://t.me/YT_upl_Bot',
     license='Apache License 2.0',
     author='Ringil',
